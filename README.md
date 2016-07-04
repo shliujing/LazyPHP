@@ -1,4 +1,4 @@
-# LAZYPHP简介
+# LAZYPHP简介 
 
 LazyPHP（以下简称LP）是一个轻框架.
 
